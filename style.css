@@ -1,0 +1,152 @@
+body
+{
+    font-family: 'Cinzel', serif;
+    margin: 0px auto;
+    width: 960px;
+}
+
+h1
+{
+    font-size: 50px;
+    color: dimgrey;
+}
+
+h2
+{
+    font-size: 40px;
+    color: dimgrey;
+}
+
+p
+{
+    font-size: 30px;
+    color: grey;
+}
+
+.crimson
+{
+    color: crimson;
+    font-weight: 1000;
+}
+
+.half_width
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half_width img
+{
+   width: 100%;
+
+}
+.top-banner
+{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section
+{
+    height: 650px;
+}
+
+.hire-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(40deg, rgb(248, 52, 91), crimson);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-weight: bolder;
+}
+
+.biography_area
+{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+.latest_size
+{
+    height: 500px;
+}
+
+.latest_area
+{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.latest_model
+{
+    text-align: center;
+    color: dimgrey;
+}
+
+.latest_area img
+{
+    width: 305px;
+    margin: 5px;
+}
+
+.footer_area
+{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+#buyer_area
+{
+    width: 450px;
+    margin: 0px auto;
+}
+
+#buyer_area p
+{
+    font-size: 20px;
+}
+
+.message_box
+{
+    background-image: linear-gradient(40deg, rgb(245, 125, 149), rgb(234, 0, 47));
+    padding: 50px 50px;
+    border-radius: 5px;
+    display: inline-block;
+    width: 500px;
+}
+
+.message_box p
+{
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.message_box a
+{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-weight: bolder;
+    font-size: 20px;
+    border: 2px solid #fff;
+    padding: 5px;
+
+}
+
+footer p
+{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
